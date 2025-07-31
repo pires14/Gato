@@ -1,0 +1,30 @@
+* {
+    margin: 0; /* É responsável pelo espaçamento entre os elementos e a borda do site*/
+    padding:0;/* Espaçamento entre os elementos*/
+}
+
+body {
+    background-color: #000000; /* Define a cor de fundo do site*/
+    color: #f6f6f6; /* Define a cor da letra de todo o site*/
+
+}
+
+/*  O strong foi utilizado para dar destaque a algumas palavras
+e alterar apenas a cor delas*/
+strong{
+    font-size:40px; /* Tamanho da fonte em px */
+    color:#00ffff; /*Cor do miau miau*/
+}
+
+button {
+    background-color:#f6f6f6;
+    color: #f00;
+}
+/*definindo a margem da esquerda e da direita*/
+main {
+    margin:0 230px; 
+}
+/* Bloco de código responsável por alterar a altura do cabeçalho*/
+header {
+    height: 200px;
+}
